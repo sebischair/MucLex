@@ -5,12 +5,18 @@ The MucLex parser is written in Python and generated the lexicon from an XML dum
 
 ## Citation information
 ```
-@inproceedings{klimt2020MuxLec,
-title = {MucLex: A German Lexicon for Surface Realisation},
-author = {Kira Klimt and Daniel Braun and Daniela Schneider and Florian Matthes},
-year = {2020},
-booktitle = {12th Edition of the Language Resources and Evaluation Conference}
+@InProceedings{klimt-EtAl:2020:LREC,
+  author    = {Klimt, Kira  and  Braun, Daniel  and  Schneider, Daniela  and  Matthes, Florian},
+  title     = {MucLex: A German Lexicon for Surface Realisation},
+  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {4655--4659},  
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.572}
 }
+
 ```
 
 ## Contact Information
